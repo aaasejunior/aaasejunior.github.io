@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminar on AAASE</title>
+    <link>https://adityadlele.github.io/aaase/seminar/</link>
+    <description>Recent content in Seminar on AAASE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://adityadlele.github.io/aaase/seminar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mental health initiative</title>
+      <link>https://adityadlele.github.io/aaase/seminar/mental_h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityadlele.github.io/aaase/seminar/mental_h/</guid>
+      <description>You could catch up on the events you missed below Here on the YouTube link Here on the YouTube link </description>
+    </item>
+    
+    <item>
+      <title>the Junior Seminar Project</title>
+      <link>https://adityadlele.github.io/aaase/seminar/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityadlele.github.io/aaase/seminar/summary/</guid>
+      <description>What are junior seminars? Summary of our recent efforts </description>
+    </item>
+    
+  </channel>
+</rss>
